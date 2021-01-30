@@ -1,0 +1,3 @@
+source/assets/* linguist-vendored
+source/app/assets/* linguist-vendored
+source/app/admin/assets/* linguist-vendored

@@ -1,0 +1,44 @@
+.box-title {
+  font-weight: bold;
+}
+
+.heading-row td {
+  font-weight: bold;
+  text-align: center;
+  border-bottom: solid 1px red;
+}
+
+.total-row td {
+  font-weight: bold;
+}
+
+.v-row td {
+  border: none;
+}
+
+@media print {
+  button .print-btn {
+    display: none;
+  }
+
+  .no-print,
+  .no-print * {
+    display: none !important;
+  }
+
+  .list-group-item {
+    border: none;
+  }
+
+  .card-header {
+    border: none;
+  }
+
+  .card {
+    border: none;
+  }
+
+  .btn-link {
+    color: #000;
+  }
+}

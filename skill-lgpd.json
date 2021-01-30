@@ -1,0 +1,870 @@
+{
+  "intents": [
+    {
+      "intent": "aplicacao_da_lgpd",
+      "examples": [
+        {
+          "text": "aplicacao da lgpd"
+        },
+        {
+          "text": "esta lei aplica-se apenas ao tratamento de dados pessoais coletados na internet"
+        },
+        {
+          "text": "tratamento de dados"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "aplicacao_fiscalizacao_lgpd",
+      "examples": [
+        {
+          "text": "Qual órgão será responsável pela aplicação e fiscalização do cumprimento da LGDP?"
+        },
+        {
+          "text": "qual orgao sera responsavel pela aplicacao e fiscalizacao do cumprimento da lgpd"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "a_quem_se_aplica",
+      "examples": [
+        {
+          "text": "A quem se aplica a nova Lei Geral de Proteção de Dados Pessoais"
+        },
+        {
+          "text": "a quem se destina"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "controlador_operador_tratamento_dos_dados",
+      "examples": [
+        {
+          "text": "quando o controlador operador podem fazer o tratamento dos dados pessoais"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "dado_anonimo_anonimizado",
+      "examples": [
+        {
+          "text": "dado anonimo anonimizado"
+        },
+        {
+          "text": "o que e um dado anonimo ou anonimizado"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "dado_pessoal",
+      "examples": [
+        {
+          "text": "o que e um dado pessoal"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "dado_pessoal_sensivel",
+      "examples": [
+        {
+          "text": "o que e um dado pessoal sensivel"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "dados_pessoais_fins_seguranca_publica",
+      "examples": [
+        {
+          "text": "lgpd dispoe sobre transferencia dados entre governo federal instituicoes setor privado"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "dados_pessoais_nao_aplicaveis",
+      "examples": [
+        {
+          "text": "dados pessoais nao aplicaveis a lgpd"
+        },
+        {
+          "text": "quais sao os casos de tratamento de dados pessoais em que a lgpd nao sera aplicada"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "dados_pessoais_online_offline",
+      "examples": [
+        {
+          "text": "dados pessoais online offline"
+        },
+        {
+          "text": "o que sao dados pessoais coletados offline ou online"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "definicao_consentimento",
+      "examples": [
+        {
+          "text": "a lgpd apresenta alguma definição de consentimento"
+        },
+        {
+          "text": "definicao consentimento"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "incidente_seguranca_dados_pessoais",
+      "examples": [
+        {
+          "text": "como posso saber meus dados pessoais sofreram algum incidente seguranca"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "oposicao_tratamento_dados",
+      "examples": [
+        {
+          "text": "qualquer pessoa podera simplesmente sem qualquer motivacao se opor ao tratamento de seus dados pela administracao publica"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "penalidades_lgpd",
+      "examples": [
+        {
+          "text": "quais sao penalidades que podem ser aplicadas aqueles que violam lgpd"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "poder_publico_lgpd",
+      "examples": [
+        {
+          "text": "o Poder Público também está sujeito às disposições da LGPD?"
+        },
+        {
+          "text": "poder publico lgpd"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "principais_atores_lgpd",
+      "examples": [
+        {
+          "text": "principais atores lgpd"
+        },
+        {
+          "text": "quais sao os principais atores no tratamento de dados pessoais de acordo com a lgpd"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "protecao_lgpd_meios_tecnologicos",
+      "examples": [
+        {
+          "text": "lgpd protege pessoas decisoes automatizadas baseadas exclusivamente meios tecnologicos"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "responsabilidade_tratamento_dados_lgpd",
+      "examples": [
+        {
+          "text": "caso tratamento dados pessoais nao ocorra acordo lgpd quem sera responsabilizado"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "responsavel_pela_aplicacao_e_fiscalizacao",
+      "examples": [
+        {
+          "text": "qual orgao sera responsavel pela aplicacao e fiscalizacao do cumprimento da lgpd"
+        },
+        {
+          "text": "responsavel pela aplicacao e fiscalizacao"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sigilo_de_dados",
+      "examples": [
+        {
+          "text": "como assegurar a manutencao do sigilo de dados recebidos como sigilosos por um orgao da administracao publica"
+        },
+        {
+          "text": "sigilo de dados"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sobre",
+      "examples": [
+        {
+          "text": "sobre a lei geral de protecao de dados pessoais"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "transferencia_exterior_dados_pessoais",
+      "examples": [
+        {
+          "text": "casos dados pessoais podem ser transferidos para fora do brasil exterior"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "tratamento_dados_pessoais_criancas",
+      "examples": [
+        {
+          "text": "quando o tratamento de dados pessoais de criancas pode ser realizado"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "tratamento_dados_pessoais_sensiveis",
+      "examples": [
+        {
+          "text": "O tratamento de dados pessoais sensíveis pode ser realizado em quais condições?"
+        },
+        {
+          "text": "tratamento de dados pessoais sensiveis pode ser realizado em quais condicoes"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "uso_compartilhado_de_dados",
+      "examples": [
+        {
+          "text": "e possivel o uso compartilhado de dados entre diferentes orgaos da administracao publica"
+        },
+        {
+          "text": "uso compartilhado de dados"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "vigor_lgpd",
+      "examples": [
+        {
+          "text": "quando lgpd entrara vigor"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Bem-vindo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá. Como posso te ajudar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "welcome",
+      "dialog_node": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "Em outros casos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Eu não entendi. Você pode tentar reformular a frase."
+              },
+              {
+                "text": "Você pode reformular sua afirmação? Eu não estou entendendo."
+              },
+              {
+                "text": "Eu não entendi o sentido."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "anything_else",
+      "dialog_node": "Em outros casos",
+      "previous_sibling": "node_12_1562833369564"
+    },
+    {
+      "type": "standard",
+      "title": "dado_pessoal_sensivel",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>É qualquer dado pessoal passível de maior potencial discriminatório em relação ao seu titular, estabelecidos na lei como os dados sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, saúde, vida sexual, genética ou biométrica de uma pessoa física.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#dado_pessoal_sensivel",
+      "dialog_node": "node_10_1562832056706",
+      "previous_sibling": "node_9_1562831772700"
+    },
+    {
+      "type": "standard",
+      "title": "protecao_lgpd_meios_tecnologicos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>O titular dos dados tem direito a solicitar revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses, inclusive de decisões destinadas a definir o seu perfil pessoal, profissional, de consumo e de crédito ou os aspectos de sua personalidade. Além disso, o controlador deverá fornecer, sempre que solicitadas, informações claras e adequadas a respeito dos critérios e dos procedimentos utilizados para a decisão automatizada, observados os segredos comercial e industrial.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#protecao_lgpd_meios_tecnologicos",
+      "dialog_node": "node_10_1577690220831",
+      "previous_sibling": "node_4_1577690902999"
+    },
+    {
+      "type": "standard",
+      "title": "dado_anonimo_anonimizado",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>Dado anônimo ou anonimizado é qualquer dado pessoal que, submetido a meios técnicos razoáveis, passe a não mais identificar ou a proporcionar a identificação de uma pessoa natural, direta ou indiretamente - p.ex., indicação de que uma pessoa do gênero masculino mora no Prédio Vieira Souto.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#dado_anonimo_anonimizado",
+      "dialog_node": "node_11_1562832921964",
+      "previous_sibling": "node_10_1562832056706"
+    },
+    {
+      "type": "standard",
+      "title": "sobre",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>Há um reconhecimento geral a respeito da URGÊNCIA DA APROVAÇÃO DA LEI DE PROTEÇÃO DE DADOS PESSOAIS brasileira. O processo para que aprovemos a lei está maduro, pois os debates em torno da construção do texto do projeto de lei vieram ocorrendo ao longo dos últimos SETE ANOS, pelo menos, envolvendo o Ministério da Justiça, diversos segmentos da sociedade civil, empresas e organismos de pesquisa, que culminou no PLC 53/2018, APROVADO POR UNANIMIDADE NA CÂMARA DOS DEPUTADOS E NO SENADO FEDERAL.</p>"
+              },
+              {
+                "text": "<p>O texto do PLC 53/2018 TRADUZ UM AMPLO CONSENSO construído no processo democrático e materializado em um manifesto assinado por mais de 80 ENTIDADES representativas de diversos segmentos de interesses envolvidos pelo tema, defendendo que seja APROVADO O TEXTO INTEGRAL, inclusive no que diz respeito à previsão relativa a uma AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS PESSOAIS - ANPD e o tratamento que o Poder Público deve dar aos dados pessoais dos brasileiros.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#sobre",
+      "dialog_node": "node_1_1562827968601",
+      "previous_sibling": "node_5_1577141765136"
+    },
+    {
+      "type": "standard",
+      "title": "definicao_consentimento",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>Sim, a LGPD entende que existe o consentimento quando o titular, ao ser informado sobre o tratamento de dados para uma finalidade determinada, por livre e espontânea vontade, dá o seu “de acordo” por meio de declaração ou conduta que clara e inequivocamente indique sua aceitação quanto ao tratamento dos seus dados pessoais.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#definicao_consentimento",
+      "dialog_node": "node_12_1562833369564",
+      "previous_sibling": "node_11_1562832921964"
+    },
+    {
+      "type": "standard",
+      "title": "a_quem_se_aplica",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>Qualquer pessoa natural ou pessoa jurídica, de direito público ou privado, que realize operações de tratamento (coleta, produção, recepção, classificação, processamento, entre outras atividades) de dados pessoais está sujeita aos termos desta Lei.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#a_quem_se_aplica",
+      "dialog_node": "node_2_1562828811834",
+      "previous_sibling": "node_1_1562827968601"
+    },
+    {
+      "type": "standard",
+      "title": "responsabilidade_tratamento_dados_lgpd",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>Todos os controladores que estiverem diretamente envolvidos com o tratamento dos dados pessoais que tenham dado causa ao dano sofrido pelo titular. O operador também pode ser responsabilizado solidariamente, caso não cumpra as ordens passadas pelo controlador relativas ao tratamento dos dados pessoais.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#responsabilidade_tratamento_dados_lgpd",
+      "dialog_node": "node_2_1577688990084",
+      "previous_sibling": "node_9_1577689432169"
+    },
+    {
+      "type": "standard",
+      "title": "poder_publico_lgpd",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>Sim, os dados pessoais tratados pelo Poder Público também estarão sujeitos à LGPD. Porém, o Poder Público pode tratar dados pessoais sem pedir o consentimento do titular sempre que for necessário para a execução de políticas públicas. O Poder Público também poderá tratar dados pessoais, fora do escopo da lei, no caso de segurança pública, defesa nacional, segurança do Estado e atividades de investigação e repressão de infrações penais, que serão tratados de acordo com legislação específica, que contenha medidas proporcionais e necessárias para que o tratamento de dados pessoais atenda ao interesse público. Para a criação das normas específicas para esses casos, a Autoridade Nacional de Proteção de Dados Pessoais - ANPD emitirá recomendações e opiniões técnicas.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#poder_publico_lgpd",
+      "dialog_node": "node_3_1562829195333",
+      "previous_sibling": "node_2_1562828811834"
+    },
+    {
+      "type": "standard",
+      "title": "oposicao_tratamento_dados",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>O direito de oposição ao tratamento de dados, nos termos do art. 18, §2º, não é imotivado, já que só pode ser exercido \"em caso de descumprimento ao disposto nesta Lei\". Quanto às hipóteses de término do tratamento, o art. 15, III, garante a continuação do tratamento quando necessária ao resguardo do \"interesse público\", mesmo após a comunicação do titular.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#oposicao_tratamento_dados",
+      "dialog_node": "node_3_1577680475067",
+      "previous_sibling": "node_9_1577680866463"
+    },
+    {
+      "type": "standard",
+      "title": "uso_compartilhado_de_dados",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>A Lei permite o uso compartilhado de dados pessoais entre entes do poder público, desde que atenda a finalidades específicas de execução de políticas públicas e a atribuição legal desses órgãos, respeitados os princípios do art. 6º. O inciso III do art. 7º assegura, como uma de suas dez bases legais para o tratamento de dados, o tratamento e uso compartilhado pela\nAdministração Pública de dados necessários à execução de políticas públicas previstas em leis, regulamentos ou ainda respaldadas em contratos, convênios ou instrumentos congêneres, nos termos do Capítulo IV.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#uso_compartilhado_de_dados",
+      "dialog_node": "node_4_1562829486706",
+      "previous_sibling": "node_3_1562829195333"
+    },
+    {
+      "type": "standard",
+      "title": "vigor_lgpd",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>Neste momento a LGPD aguarda a sanção presidencial. Após a sanção da lei pelo Presidente da República, a LGPD entrará em vigor no prazo de 18 meses contados à partir da data de sua publicação no Diário Oficial da União (D.O.U.).</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#vigor_lgpd",
+      "dialog_node": "node_4_1577690902999",
+      "previous_sibling": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "sigilo_de_dados",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>A proteção e controle de informações sigilosas pelo poder público já se encontra disciplinada na Lei nº 12.527, de 18 de novembro de 2011, especialmente em seus art. 25 e 26, esse diploma não será revogado e conviverá em harmonia sistemática com a lei de proteção de dados. Além disso, a lei assegura às empresas públicas e sociedades de economia mista que estiverem operacionalizando políticas públicas, no âmbito da execução destas políticas, o mesmo tratamento dispensado aos órgãos do poder público.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#sigilo_de_dados",
+      "dialog_node": "node_5_1562829862952",
+      "previous_sibling": "node_4_1562829486706"
+    },
+    {
+      "type": "standard",
+      "title": "dado_pessoal",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>A LGPD define dado pessoal como a informação que identifica ou que pode vir a identificar uma pessoa natural. A informação que identifica é aquela que individualiza e indica com precisão quem alguém é, p.ex., o número do CPF dessa pessoa. A informação que pode vir a identificar (identificável) uma pessoa é qualquer informação pessoal que esteja relacionada indiretamente a essa pessoa, p.ex., idade, CEP residencial, atributos físicos e quaisquer outros que possam proporcionar ao controlador a identificação de uma pessoa determinada.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#dado_pessoal",
+      "dialog_node": "node_5_1577141765136",
+      "previous_sibling": "node_8_1577670268228"
+    },
+    {
+      "type": "standard",
+      "title": "dados_pessoais_nao_aplicaveis",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>São os casos em que o tratamento de dados pessoais for feito (i) por uma pessoa física, para fins particulares, e não comerciais, p.ex., coleta de dados pessoais dos integrantes da família para a montagem de uma árvore genealógica; (ii) para fins exclusivamente jornalísticos, artísticos e acadêmicos; ou (iii) pelo Poder Público - no caso de segurança pública, defesa nacional, segurança do Estado e atividades de investigação e repressão de infrações penais.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#dados_pessoais_nao_aplicaveis",
+      "dialog_node": "node_6_1562830484752",
+      "previous_sibling": "node_5_1562829862952"
+    },
+    {
+      "type": "standard",
+      "title": "controlador_operador_tratamento_dos_dados",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>O tratamento dos dados pessoais pode ser feito pelo controlador e/ou pelo operador em uma das seguintes hipóteses de legitimação: (i) quando o titular dos dados pessoais der o seu consentimento ; (ii) quando o controlador tiver que cumprir com alguma obrigação legal ou regulatória; (iii) pela administração pública, quando necessário para a realização de políticas públicas; (iv) para realização de estudos por órgão de pesquisa; (v) para o exercício regular de direitos em processo judicial, administrativo ou arbitral; (vi) para a proteção da vida e da integridade física do titular ou terceiros; (vii) para a proteção da saúde, em procedimento realizado por profissionais da área da saúde; (viii) quando necessário para atender aos interesses legítimos do controlador ou de terceiro; (ix) para a proteção do crédito; e (x) quando necessário para execução de contrato do qual o titular faça parte.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#controlador_operador_tratamento_dos_dados",
+      "dialog_node": "node_6_1577678710408",
+      "previous_sibling": "node_7_1577679004845"
+    },
+    {
+      "type": "standard",
+      "title": "dados_pessoais_fins_seguranca_publica",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>O tratamento de dados pessoais para fins de segurança pública, de defesa nacional, de segurança do Estado, e de atividades de investigação e repressão de infrações penais deve ser, necessariamente, feito pelo Poder Público, não podendo ser realizado por pessoa de direito privado.</p>"
+              },
+              {
+                "text": "<p>O Poder Público somente poderá transferir a entidades privadas dados pessoais que tenha acesso nos casos em que haja previsão legal, nos casos em que os dados forem acessíveis publicamente, ou em casos de execução descentralizada de atividade pública que exija essa transferência.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#dados_pessoais_fins_seguranca_publica",
+      "dialog_node": "node_6_1577682091215",
+      "previous_sibling": "node_9_1577688542230"
+    },
+    {
+      "type": "standard",
+      "title": "aplicacao_da_lgpd",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>A LGPD é aplicável a qualquer operação de tratamento de dados pessoais que tenham sido coletados dentro do território brasileiro ou que tenha como objetivo oferecer bens ou serviços a pessoas localizadas no Brasil, independentemente destes dados pessoais terem sido coletados offline ou online, em meios físicos ou digitais.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#aplicacao_da_lgpd",
+      "dialog_node": "node_7_1562830946596",
+      "previous_sibling": "node_6_1562830484752"
+    },
+    {
+      "type": "standard",
+      "title": "tratamento_dados_pessoais_sensiveis",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>O tratamento de dados pessoais sensíveis pode ser realizado somente com o consentimento específico e destacado do titular, para finalidades específicas. Sem o fornecimento deste consentimento, pode ser realizado nos casos em que for indispensável para a garantia da prevenção a fraudes e à segurança do titular na identificação deste nos processos da identificação e autenticação de cadastros em sistemas eletrônicos, assim como nas hipóteses em que o controlador tiver que cumprir com alguma obrigação legal ou regulatória ou quando necessário para atender aos interesses legítimos do controlador ou de terceiro.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#tratamento_dados_pessoais_sensiveis",
+      "dialog_node": "node_7_1577679004845",
+      "previous_sibling": "node_3_1577680475067"
+    },
+    {
+      "type": "standard",
+      "title": "dados_pessoais_online_offline",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>Dados pessoais coletados offline são os obtidos sem a utilização de procedimentos automatizados, como, p.ex., aqueles coletados para criação de um cadastro físico com fichas de clientes de uma padaria ou de uma loja de conserto de roupas Também pode ser o caderno com as anotações dos dados pessoais dos fregueses de uma mercearia em um vilarejo do interior do Brasil contendo o valor das compras “penduradas” a serem pagas no início do mês seguinte. Os dados pessoais coletados online são os que se valem de métodos automatizados para serem obtidos, tais como os cadastros que rotineiramente são preenchidos por uma pessoa na Internet para poder utilizar redes sociais, baixar e usar aplicativos no celular, comprar objetos (livros, roupas, sapatos, eletroeletrônicos, etc.) ou contratar serviços (pedir um táxi, entrega de encomenda, entrega de comida, solicitação de cartão de crédito, etc.)</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#dados_pessoais_online_offline",
+      "dialog_node": "node_8_1562831423067",
+      "previous_sibling": "node_7_1562830946596"
+    },
+    {
+      "type": "standard",
+      "title": "aplicacao_fiscalizacao_lgpd",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>A LGPD prevê a criação da Autoridade Nacional de Proteção de Dados (ANPD), uma\nautarquia especial com prerrogativas de independência administrativa, ausência de\nsubordinação hierárquica, mandato fixo e estabilidade de seus dirigentes, além de contar\ncom autonomia financeira.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#aplicacao_fiscalizacao_lgpd",
+      "dialog_node": "node_8_1577670268228",
+      "previous_sibling": "node_6_1577678710408"
+    },
+    {
+      "type": "standard",
+      "title": "penalidades_lgpd",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>A LGDP estabelece que a ANDP pode enviar uma advertência, aplicar multas, determinar a divulgação da infração, o bloqueio ou eliminação dos dados pessoais que foram violados, assim como a suspensão ou proibição do tratamento de dados pessoais por parte dos responsáveis.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#penalidades_lgpd",
+      "dialog_node": "node_8_1577689914151",
+      "previous_sibling": "node_10_1577690220831"
+    },
+    {
+      "type": "standard",
+      "title": "principais_atores_lgpd",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>São quatro: O titular, o controlador, o operador e o encarregado.</p>"
+              },
+              {
+                "text": "<p>O titular é a pessoa física, a quem se referem os dados pessoais. O controlador é a empresa ou pessoa física que coleta dados pessoais e toma todas as decisões em relação a forma e finalidade do tratamento dos dados. O operador é a empresa ou pessoa física que realiza o tratamento de dados pessoais sob as ordens do controlador. Já o encarregado, que será sempre uma pessoa física indicada pelo controlador e que tem como responsabilidade fazer a comunicação entre o controlador, os titulares e a ANPD; orientar os funcionários do controlador sobre práticas de tratamento de dados, entre outras</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#principais_atores_lgpd",
+      "dialog_node": "node_9_1562831772700",
+      "previous_sibling": "node_8_1562831423067"
+    },
+    {
+      "type": "standard",
+      "title": "tratamento_dados_pessoais_criancas",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>O tratamento de dados pessoais de crianças deve ser realizado apenas em seu melhor interesse, de acordo com legislação pertinente, colocando-os a salvo de toda forma de exploração ou violação de direitos. A coleta de dados de crianças só pode ocorrer mediante consentimento específico e em destaque dado por, pelo menos, um dos pais ou responsável legal, a não ser que seja usado apenas uma vez, e sem armazenamento, para protegê-las ou para contatar os pais ou responsável legal, não podendo ser repassado para terceiros. Também está prevista a obrigatoriedade da observação do princípio da minimização da coleta de dados em jogos, aplicativos ou outras atividades voltadas a esse público e a obrigação de oferta de informações em formato adequado e acessível sobre coleta e tratamento de dados a crianças e adolescentes.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#tratamento_dados_pessoais_criancas",
+      "dialog_node": "node_9_1577680866463",
+      "previous_sibling": "node_6_1577682091215"
+    },
+    {
+      "type": "standard",
+      "title": "transferencia_exterior_dados_pessoais",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>A transferência internacional de dados pessoais pode ser feita (i) para países ou organizações internacionais que, conforme definido pela ANPD, proporcionem grau adequado (ou seja, equiparável ao brasileiro) de proteção de dados pessoais; (ii) quando o controlador comprovar, por meio de cláusulas contratuais específicas para determinada transferência, cláusulas-padrão contratuais, normas corporativas globais, selos, certificados ou códigos de conduta regularmente emitidos, que está cumprindo com o disposto na LGPD; (iii) quando necessário para cumprimento de acordos da cooperação jurídica internacional entre órgãos públicos de inteligência, de acordo com instrumento de direito internacional; (iv) para proteção da vida do titular ou de terceiro; (v) quando autorizada pela ANPD; (vi) quando resultar em compromisso assumido em acordo de cooperação internacional; (vii) para a execução de política pública; (viii) quando o titular fornecer seu consentimento de forma específica e em destaque para tal; (ix) para o cumprimento de obrigação legal ou regulatória pelo controlador; (x) quando necessário para a execução de contrato do qual seja parte o titular; e (xi) para o exercício regular de direitos em processo judicial, administrativo ou arbitral.</p>"
+              },
+              {
+                "text": "<p>Além da necessidade de estabelecer limites para que dados de cidadãos que estão no Brasil sejam coletados e depois tratados em países que não possuam uma legislação equiparável as regras a este respeito, também reconhecem que as várias formas de permitir essa transferência internacional de dados pessoais são fundamentais para garantir o pleno funcionamento de atividades do dia-a-dia das pessoas. Por exemplo, quando acessamos nossos dados bancários pela Internet, ou até mesmo quando fazemos pesquisas em sites de busca, as informações que inserimos e aquelas que aparecem na tela de nossos dispositivos trafegam por diversos países.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#transferencia_exterior_dados_pessoais",
+      "dialog_node": "node_9_1577688542230",
+      "previous_sibling": "node_2_1577688990084"
+    },
+    {
+      "type": "standard",
+      "title": "incidente_seguranca_dados_pessoais",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>A LGPD determina que o controlador deverá comunicar tanto ao titular quanto à ANPD sobre a ocorrência de algum incidente de segurança que possa causar risco ou dano ao titular.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#incidente_seguranca_dados_pessoais",
+      "dialog_node": "node_9_1577689432169",
+      "previous_sibling": "node_8_1577689914151"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    }
+  },
+  "learning_opt_out": false,
+  "name": "lgpd",
+  "language": "pt-br",
+  "description": ""
+}
